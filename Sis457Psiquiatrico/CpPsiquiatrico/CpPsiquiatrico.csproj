@@ -76,5 +76,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CadPsiquiatrico\CadPsiquiatrico.csproj">
+      <Project>{bca74c7c-5d00-4b17-8a5a-1e68a0ddc129}</Project>
+      <Name>CadPsiquiatrico</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClnPsiquiatrico\ClnPsiquiatrico.csproj">
+      <Project>{1aed51d3-4520-469b-bb49-d67e634c5b4b}</Project>
+      <Name>ClnPsiquiatrico</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

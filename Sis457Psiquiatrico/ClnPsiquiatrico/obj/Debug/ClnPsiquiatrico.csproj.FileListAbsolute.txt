@@ -1,0 +1,15 @@
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\ClnPsiquiatrico.dll.config
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\ClnPsiquiatrico.dll
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\ClnPsiquiatrico.pdb
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\CadPsiquiatrico.dll
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\EntityFramework.dll
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\CadPsiquiatrico.pdb
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\CadPsiquiatrico.dll.config
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\EntityFramework.xml
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\obj\Debug\ClnPsiquiatrico.csproj.AssemblyReference.cache
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\obj\Debug\ClnPsiquiatrico.csproj.CoreCompileInputs.cache
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\obj\Debug\ClnPsiquiatrico.csproj.CopyComplete
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\obj\Debug\ClnPsiquiatrico.dll
+D:\Bryan 2023\sis457_Psiquiatrico\Sis457Psiquiatrico\ClnPsiquiatrico\obj\Debug\ClnPsiquiatrico.pdb
