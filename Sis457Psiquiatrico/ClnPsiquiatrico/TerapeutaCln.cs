@@ -9,7 +9,7 @@ namespace ClnPsiquiatrico
 {
     public class TerapeutaCln
     {
-        public static int Insertar(Terapeuta terapeuta)
+        public static int insertar(Terapeuta terapeuta)
         {
             using (var context = new LabPsiquiatricoEntities())
             {
@@ -19,7 +19,7 @@ namespace ClnPsiquiatrico
             }
         }
 
-        public static int Actualizar(Terapeuta terapeuta)
+        public static int actualizar(Terapeuta terapeuta)
         {
             using (var context = new LabPsiquiatricoEntities())
             {
@@ -35,7 +35,7 @@ namespace ClnPsiquiatrico
             }
         }
 
-        public static int Eliminar(int id, string usuarioRegistro)
+        public static int eliminar(int id, string usuarioRegistro)
         {
             using (var context = new LabPsiquiatricoEntities())
             {
@@ -46,7 +46,7 @@ namespace ClnPsiquiatrico
             }
         }
 
-        public static Terapeuta Get(int id)
+        public static Terapeuta get(int id)
         {
             using (var context = new LabPsiquiatricoEntities())
             {
@@ -54,7 +54,7 @@ namespace ClnPsiquiatrico
             }
         }
 
-        public static List<Terapeuta> Listar()
+        public static List<Terapeuta> listar()
         {
             using (var context = new LabPsiquiatricoEntities())
             {
@@ -62,7 +62,7 @@ namespace ClnPsiquiatrico
             }
         }
 
-        public static List<paTerapeutaListar_Result> ListarPa(string parametro)
+        public static List<paTerapeutaListar_Result> listarPa(string parametro)
         {
             using (var context = new LabPsiquiatricoEntities())
             {

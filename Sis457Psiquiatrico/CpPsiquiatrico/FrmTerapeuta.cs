@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClnPsiquiatrico;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,7 @@ namespace CpPsiquiatrico
         public FrmTerapeuta()
         {
             InitializeComponent();
+            dgvLista.DataSource = TerapeutaCln.listarPa("");
         }
     }
 }
